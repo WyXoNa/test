@@ -1,1 +1,1 @@
-[Link to my profile](github.com/WyXoNa)
+*My Name Project*
